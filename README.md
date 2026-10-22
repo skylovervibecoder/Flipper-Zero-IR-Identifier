@@ -132,6 +132,3 @@ Created by **Marcopiiit**.
 
 Version shown in the app: **1.0**.
 
-## License
-
-No license information is specified in the provided source file. Add a `LICENSE` file and update this section if you intend to publish the project under a specific open-source license.
