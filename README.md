@@ -1,4 +1,7 @@
 # Flipper Zero IR Identifier
+
+![iridentifier](irid.png)
+
 Flipper Zero simple infrared signal identifier, read the IR signal and search any match in the Flipper and User databases.
 **IR Identifier** is a Flipper Zero app for identifying the likely device type and brand of an infrared remote control. It listens for an IR transmission, compares the captured signal against built-in rules and available `.ir` databases, then displays possible matches ranked by confidence.
 
